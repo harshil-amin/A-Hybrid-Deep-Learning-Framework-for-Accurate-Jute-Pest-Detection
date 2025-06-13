@@ -15,3 +15,13 @@ This repository contains the implementation of a deep learning pipeline to class
 - EfficientV2
 - InceptionV3
 - Hybrid Models (CNN + ViT)
+
+## 📂 Dataset
+
+The dataset used in this project contains labeled images of jute pests, used for classification and model training.
+
+🔗 Islam, M. (2024). Jute Pest [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5289P
+
+and
+
+🔗 https://www.kaggle.com/datasets/mrsavani/newcat/data
